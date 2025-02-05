@@ -2,8 +2,8 @@
 <h3 align="center">Web Enthusiast | Competitive Programmer | Data Science & AI Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=allan-joseph&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/allan-joseph?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=allanjoseph01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/allanjoseph01?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 ---
@@ -42,11 +42,11 @@
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allan-joseph&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allan-joseph&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allanjoseph01&theme=dark" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-joseph&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 ---
