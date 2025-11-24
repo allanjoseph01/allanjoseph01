@@ -1,16 +1,12 @@
 Allan Santosh Joseph
-<h3 align="center">Web Developer • Competitive Programmer • Data Science & AI Student</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=allanjoseph01&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/allanjoseph01?label=Followers&style=social" alt="GitHub Followers" /> </p>
+<h3 align="center">Web Developer • Competitive Programmer • Data Science & AI Student</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=allanjoseph01&label=Profile%20Views&color=brightgreen&style=flat" /> <img src="https://img.shields.io/github/followers/allanjoseph01?label=Followers&style=social" /> </p>
 👨‍💻 About Me
 
-🎓 BSc (Hons) Data Science & Artificial Intelligence @ IIT Guwahati (Batch of 2027)
-
-💻 Passionate about Web Development, Frontend Engineering, and Backend Basics
-
-⚔️ Growing into Next.js, Express.js, and MongoDB
-
-💡 Love building interactive UI, visual tools, and algorithmic systems
-
-🧠 Strong grip on Data Structures & Algorithms (500+ problems solved)
+🎓 BSc (Hons) Data Science & AI, IIT Guwahati (Batch of 2027)
+💻 Passionate about crafting beautiful UIs & performant apps
+⚔️ Diving deep into Next.js • Express.js • MongoDB
+🧠 Strong foundation in Data Structures & Algorithms (500+ problems solved!)
+💡 Love building visual tools, interactive UI, and algorithmic systems
 
 🛠️ Tech Stack
 Languages
@@ -19,24 +15,24 @@ Frontend & Tools
 <div> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> </div>
 Backend & Databases
 <div> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> </div>
-🚧 Featured Projects
-🔹 Data Structure Visualizer
+🚧 Featured Project
+🔹 Structify — Data Structure Visualizer
 
-Interactive visualizer for 8+ data structures with GSAP animations.
+Interactive visualizer for 8+ data structures with smooth GSAP animations.
+
 🌐 Live: https://structify.vercel.app
 
 💻 Code: https://github.com/allanjoseph01/structify
 
+🏆 Competitive Programming
 
-🏆 Competitive Programming Achievements
-
-🧩 Codeforces: 330+ problems | 150-day streak | ICPC Prelims 2024
+🧩 Codeforces: 330+ problems • 150-day streak • ICPC Prelims 2024
 🔗 https://codeforces.com/profile/ZenStein30
 
-💡 LeetCode: 200+ problems | 50-day streak
+💡 LeetCode: 200+ problems • 50-day streak
 🔗 https://leetcode.com/u/_Allan_Joseph_30_/
 
-⚔️ CodeChef: 2★ (Rating: 1508+)
+⚔️ CodeChef: 2★ (Rating ~1508)
 🔗 https://www.codechef.com/users/allanjoseph45
 
 📚 GeeksForGeeks: 100+ problems
@@ -46,6 +42,7 @@ Interactive visualizer for 8+ data structures with GSAP animations.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=allanjoseph01&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&theme=tokyonight" /> </p>
 🤝 Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/allan-santosh-joseph/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
-⭐ If you like my projects, consider giving a star!
+⭐ Support
 
-Your support motivates me to build more cool stuff ✨🚀
+If you like my work, consider ⭐ starring my repositories.
+Your support motivates me to build more cool tools, visuals, and projects! 🚀✨
