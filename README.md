@@ -1,4 +1,4 @@
-#  ALLAN SANTOSH JOSEPH 
+# 🌟 ALLAN SANTOSH JOSEPH 🌟
 
 ### 💻 Web Developer • ⚔️ Competitive Programmer • 🧠 Data Science & AI Student
 
@@ -84,7 +84,7 @@ A dedicated focus on Data Structures and Algorithms.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=allanjoseph01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=allanjoseph01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
@@ -96,6 +96,10 @@ A dedicated focus on Data Structures and Algorithms.
 <p align="center">
   <a href="https://www.linkedin.com/in/allan-santosh-joseph/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
+  </a>
+  &nbsp; &nbsp; 
+  <a href="https://x.com/AllanJoseph30"> 
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/> 
   </a>
 </p>
 
