@@ -1,4 +1,4 @@
-# 🌟 ALLAN SANTOSH JOSEPH 🌟
+#  ALLAN SANTOSH JOSEPH 
 
 ### 💻 Web Developer • ⚔️ Competitive Programmer • 🧠 Data Science & AI Student
 
@@ -84,8 +84,7 @@ A dedicated focus on Data Structures and Algorithms.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app?user=allanjoseph01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
+  &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
