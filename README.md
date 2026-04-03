@@ -131,11 +131,6 @@ A dedicated focus on Data Structures and Algorithms.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=allanjoseph01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
