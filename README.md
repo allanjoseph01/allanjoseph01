@@ -92,8 +92,8 @@ const allan = {
 - 🔐 JWT + **Google OAuth** with role-based access
 - ☁️ **Cloudinary + Multer** for media upload infrastructure
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjoseph01)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allanjoseph01)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjoseph01/Tunyx)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://tunyx.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -156,17 +156,36 @@ Currently working on:
 
 <div align="center">
 
-### 🌐 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,framermotion&theme=dark)](https://skillicons.dev)
+<table>
+<tr>
+<td align="center" width="50%">
 
-### ⚙️ Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=dark)](https://skillicons.dev)
+**🌐 Frontend**<br>
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark&perline=7)](https://skillicons.dev)
 
-### 🧠 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,python,java&theme=dark)](https://skillicons.dev)
+</td>
+<td align="center" width="50%">
 
-### 🔧 Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux&theme=dark)](https://skillicons.dev)
+**⚙️ Backend & Databases**<br>
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=dark&perline=7)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🧠 Languages**<br>
+[![Languages](https://skillicons.dev/icons?i=js,ts,cpp,python,java&theme=dark&perline=7)](https://skillicons.dev)
+
+</td>
+<td align="center">
+
+**🔧 Tools & Platforms**<br>
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux&theme=dark&perline=7)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -195,8 +214,16 @@ Currently working on:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED"/>
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</td>
+<td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</td>
+</tr>
+</table>
 
 <br>
 
