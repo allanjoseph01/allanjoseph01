@@ -92,8 +92,8 @@ const allan = {
 - 🔐 JWT + **Google OAuth** with role-based access
 - ☁️ **Cloudinary + Multer** for media upload infrastructure
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjoseph01/Tunyx)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://tunyx.vercel.app)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjoseph01)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allanjoseph01)
 
 </td>
 <td width="50%" valign="top">
@@ -217,7 +217,7 @@ Currently working on:
 <table>
 <tr>
 <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 </td>
 <td>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
