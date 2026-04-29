@@ -1,162 +1,247 @@
-#  ALLAN SANTOSH JOSEPH 
+<div align="center">
 
-### 💻 Full Stack Developer • ⚔️ Competitive Programmer • 🧠 Data Science & AI Student
+<!-- ANIMATED HEADER BANNER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Allan%20Santosh%20Joseph&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20AI%20Student&descAlignY=58&descSize=16&animation=fadeIn)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=allanjoseph01&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
-  &nbsp; &nbsp;
-  <img src="https://img.shields.io/github/followers/allanjoseph01?label=Followers&style=social" alt="GitHub Followers"/>
-</p>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Building+production-grade+web+apps+%F0%9F%9A%80;500%2B+DSA+problems+solved+%E2%9A%94%EF%B8%8F;MERN+%7C+Next.js+%7C+TypeScript+%7C+Python;ICPC+2024+Prelims+Participant+%F0%9F%8F%86;IIT+Guwahati+%E2%80%A2+Data+Science+%26+AI+%F0%9F%A7%A0)](https://git.io/typing-svg)
+
+<br>
+
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-santosh-joseph/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AllanJoseph30)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanjoseph3005@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/_Allan_Joseph_30_/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ZenStein30)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=allanjoseph01&style=flat-square&color=7C3AED&label=Profile+Views)
+&nbsp;
+![GitHub Followers](https://img.shields.io/github/followers/allanjoseph01?style=flat-square&color=7C3AED&label=Followers)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me & Education
+## ⚡ About Me
 
-* **🎓 Education:** BSc (Hons) Data Science & AI, IIT Guwahati (Batch of 2027) — CGPA: 8.0
-* **🎯 Goal:** Passionate about crafting **beautiful UIs** and **performant full-stack applications**.
-* **🛠️ Focus:** Building production-grade systems with the **MERN stack**, **Next.js**, and **Express.js**.
-* **💡 Core Strength:** Strong foundation in Data Structures & Algorithms (**500+ problems solved!**).
-* **❤️ Love to Build:** Visual tools, interactive UI components, and complex algorithmic systems.
-* **📍 Location:** Bengaluru, India
+```typescript
+const allan = {
+  name        : "Allan Santosh Joseph",
+  location    : "Bengaluru, India 🇮🇳",
+  education   : "BSc (Hons) Data Science & AI — IIT Guwahati (2027)",
+  cgpa        : 8.0,
+  currentRole : "Full Stack Developer Intern @ Physics Wallah",
+  
+  codePhilosophy : "Ship fast, fix faster, optimize always.",
+  
+  loves       : [
+    "Building beautiful, performant UIs",
+    "Cracking tough DSA problems",
+    "Designing scalable backend systems",
+    "Animating everything with GSAP ✨"
+  ],
+  
+  askMeAbout  : ["MERN Stack", "Next.js", "System Design", "CP"],
+  funFact     : "I debug production at 2AM and call it fun 🌙"
+};
+```
 
 ---
 
 ## 💼 Experience
 
-### Physics Wallah — Full Stack Developer Intern
-**Bengaluru | November 2025 – Present**
+<table width="100%">
+<tr>
+<td>
 
-- Fixed critical bugs across both frontend and backend in LMS and coding platforms used by **1500+ users**, improving system stability and user experience.
-- Developed and maintained scalable frontend modules using **Next.js** and **Tailwind CSS** for the PW Prerna platform.
-- Built and integrated backend **RESTful APIs** using Express.js, ensuring secure and reliable data flow.
-- Resolved production bugs and optimized UI performance in a live quiz platform used by **thousands of users**.
-- Implemented secure **admin dashboard interfaces** with role-based access control.
-- Worked on production codebases using **TypeScript** and followed industry-standard Git workflows.
+### 🏢 Physics Wallah · Full Stack Developer Intern
+**📍 Bengaluru &nbsp;|&nbsp; 📅 November 2025 – Present**
+
+- 🏗️ Designed and built a full-scale **CMS platform** (frontend + backend) integrated into a student portal serving **1500+ users**
+- 📊 Developed the **Curriculum Progress Report (CPR)** module to track course progress across PW Skills & Vidyapeeth
+- 🔥 Diagnosed and resolved critical issues in a **fintech project** post-QA without prior codebase familiarity
+- 🛡️ Built secure **REST APIs** with **JWT authentication** and **role-based access control**
+- ⚡ Debugged and stabilized production **LMS & quiz platforms** in high-traffic environments
+- 🤝 Shipped features collaborating across cross-functional teams using industry-standard Git workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 🚀 Featured Projects
 
-A curated list of the technologies I work with.
+<div align="center">
 
-### 🌐 Frontend & Animation
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+### 🎵 Tunyx — Music Streaming Platform
+**Next.js · Microservices · Redis · PostgreSQL · MongoDB**
+
+> A production-grade music platform built with a **microservices architecture**, Redis caching, Google OAuth, and a fully-featured Admin CMS.
+
+- 🔀 Separate **User, Song & Admin** microservices
+- ⚡ **Redux Toolkit + React Query** for blazing-fast state management
+- 🗄️ **Redis caching** for high-performance song data retrieval  
+- 🔐 JWT + **Google OAuth** with role-based access
+- ☁️ **Cloudinary + Multer** for media upload infrastructure
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjoseph01)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allanjoseph01)
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ Trackit — Task Manager
+**MERN Stack · JWT Auth · Tailwind CSS · Framer Motion**
+
+> A production-ready, full-stack task management system with animated UI, secure authentication, and a clean RESTful backend.
+
+- 🔑 Secure **JWT** authentication flow
+- 🎨 Animated UI with **Framer Motion**
+- 📱 Fully **responsive** across all devices
+- 🔒 **bcrypt** password hashing
+- 🚀 Deployed on **Vercel**
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjoseph01/TrackIt)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://trackit-appx.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Structify — Data Structure Visualizer
+**React · GSAP · Tailwind CSS**
+
+> An interactive visualizer for **8+ data structures** with silky-smooth GSAP animations. A showcase of front-end animation and component architecture.
+
+- 🎬 Buttery-smooth **GSAP** animations
+- 🔁 Reusable, composable **React** components  
+- 🎨 Intuitive, modern **UI/UX** design
+- 📐 Covers Arrays, Stacks, Queues, Trees & more
+
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allanjoseph01/structify)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://structify.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 More Coming Soon...
+
+> Always building. Always shipping.
+
+Currently working on:
+- 🤖 AI-integrated web tools
+- 📈 Real-time collaborative apps
+- 🎨 More creative visualizers
+
+*Watch this space! ⭐*
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,framermotion&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Backend & Databases
-
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis&theme=dark)](https://skillicons.dev)
 
 ### 🧠 Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,python,java&theme=dark)](https://skillicons.dev)
 
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-</div>
+### 🔧 Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,linux&theme=dark)](https://skillicons.dev)
 
-### 🛠️ Tools & Platforms
-
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
 
 ---
 
-## 🚧 Featured Projects
+## ⚔️ Competitive Programming
 
-> ### 📋 Task Manager — Full Stack Application
-> A production-ready task management system with JWT auth, role-based access, and animated UI.
->
-> **Stack:** MERN | Framer Motion | JWT Auth | bcrypt | Tailwind CSS
->
-> * **🌐 Live:** [Live Demo](https://trackit-appx.vercel.app)
-> * **💻 Code:** [GitHub](https://github.com/allanjoseph01/TrackIt)
+<div align="center">
 
----
+| 🏆 Platform | 📊 Stats | 🔥 Highlight |
+|:-----------:|:--------:|:------------:|
+| **Codeforces** | 200+ problems solved | 150-day streak · ICPC 2024 Prelims |
+| **LeetCode** | 200+ problems solved | 50-day streak |
+| **CodeChef** | ⭐⭐ 2-Star Rated | ~1508 Rating |
+| **GeeksForGeeks** | 100+ problems solved | — |
 
-> ### 🧩 Structify — Data Structure Visualizer
-> An interactive visualizer for 8+ data structures, complete with smooth, modern **GSAP animations**. A showcase of my full-stack and front-end animation skills.
->
-> **Stack:** React | GSAP | Tailwind CSS
->
-> * **🌐 Live:** [https://structify.vercel.app](https://structify.vercel.app)
-> * **💻 Code:** [https://github.com/allanjoseph01/structify](https://github.com/allanjoseph01/structify)
+<br>
+
+> ### 💪 500+ Problems Solved Across All Platforms
+
+</div>
 
 ---
 
-## 🏆 Competitive Programming & DSA
+## 📊 GitHub Analytics
 
-A dedicated focus on Data Structures and Algorithms.
+<div align="center">
 
-| Platform | Achievement | Streak / Rating | Profile Link |
-| :--- | :--- | :--- | :--- |
-| **Codeforces** | 200+ problems solved | 150-day streak • ICPC Prelims 2024 | [ZenStein30](https://codeforces.com/profile/ZenStein30) |
-| **LeetCode** | 200+ problems solved | 50-day streak | [_Allan\_Joseph\_30_](https://leetcode.com/u/_Allan_Joseph_30_/) |
-| **CodeChef** | 2★ Rated | ~1508 Rating | [allanjoseph45](https://www.codechef.com/users/allanjoseph45) |
-| **GeeksForGeeks** | 100+ problems solved | - | [allanjosz6jd](https://www.geeksforgeeks.org/user/allanjosz6jd/) |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=allanjoseph01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanjoseph01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED"/>
 
----
+<br>
 
-## 🎖️ Certifications
+<img src="https://streak-stats.demolab.com/?user=allanjoseph01&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" alt="GitHub Streak"/>
 
-* 🏫 **Computer Science and AI** — Physics Wallah Institute of Innovation (2023–2027)
-* 🏛️ **Introduction to Software Engineering** — IBM (Coursera), 2025
+<br>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allanjoseph01&theme=tokyonight" alt="GitHub Profile Summary"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=allanjoseph01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allanjoseph01&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🎖️ Certifications & Education
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/allan-santosh-joseph/"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/> 
-  </a>
-  &nbsp; &nbsp; 
-  <a href="https://x.com/AllanJoseph30"> 
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Profile"/> 
-  </a>
-  &nbsp; &nbsp;
-  <a href="mailto:allanjoseph3005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+
+| 🎓 Credential | 🏛️ Institution | 📅 Year |
+|:-------------:|:--------------:|:-------:|
+| BSc (Hons) Data Science & AI — CGPA: 8.0 | **IIT Guwahati** | 2023–2027 |
+| Computer Science and AI | **Physics Wallah Institute of Innovation** | 2023–2027 |
+| Introduction to Software Engineering | **IBM (Coursera)** | 2025 |
+
+</div>
 
 ---
 
-## ⭐ Support My Work
+<div align="center">
 
-If you find my projects valuable, please consider **⭐ starring** the repositories. Your support motivates me to build more cool tools, visuals, and projects! 🚀✨
+### 💬 Let's Connect & Build Something Incredible
+
+*Whether it's a collab, an opportunity, or just a good DSA problem to solve —*
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-santosh-joseph/)
+[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanjoseph3005@gmail.com)
+
+<br>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+<br>
+
+⭐ **If my projects helped you, a star goes a long way!**
+
+<!-- FOOTER WAVE -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+
+</div>
